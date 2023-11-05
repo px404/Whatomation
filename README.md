@@ -5,3 +5,4 @@ In case of an error view the libraries in the libs.txt file and try to manually 
 Please check contacts.csv and only use your own numbers
 
 # Do not spam
+Please do not spam others with it
